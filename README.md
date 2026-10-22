@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Mine1178</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SealMaker%20%7C%20PDF%20Toolbox%20%7C%20Addr%20Converter&fontSize=22&fontColor=fff&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SealMaker%20|%20QTranslate%20|%20AddressMap%20|%20D2W%20Skill&fontSize=22&fontColor=fff&animation=fadeIn" alt="banner">
 </p>
 
 <p align="center">
-  🔧 通信工程领域 Python 桌面工具开发者<br>
-  🛠️ 专注办公自动化、图像处理、效率工具<br>
+  🔧 通信工程领域 Python / C# 桌面工具开发者<br>
+  🛠️ 专注办公自动化、图像处理、地理编码、效率工具<br>
   📍 Based in Qujing, China
 </p>
 
@@ -16,19 +16,21 @@
 
 | 项目 | 简介 |
 |------|------|
-| 🔴 **SealMaker** | 标准电子印章生成器，圆形章/椭圆发票章，508 DPI 导出 |
-| 📄 **PDF Toolbox** | PDF 全能工具箱，合并/拆分/压缩/转图/OCR |
-| 🏠 **Addr Converter** | 标准地址转换工具，通信工程勘察报告自动化 |
-| 🌐 **QTranslate** | 轻量翻译工具，多引擎聚合 |
+| 🔴 **[SealMaker](https://github.com/Mine1178/SealMaker)** | 标准电子印章生成器，圆形章/椭圆发票章，508 DPI 透明背景导出 |
+| 🌐 **[QTranslate](https://github.com/Mine1178/QTranslate)** | 轻量 Windows 划词翻译工具，.NET/WPF，多引擎聚合 + TTS + 生词本 |
+| 🗺️ **[addressmap-tool](https://github.com/Mine1178/addressmap-tool)** | 批量地址↔经纬度双向转换，双引擎自动切换 + 本地缓存 + POI 网格采集 |
+| 🤖 **[d2w-skill](https://github.com/Mine1178/d2w-skill)** | 双 AI 协作开发闭环：派活 → 写码 → 互审 → 收敛 → 打包交付 |
+| 📄 **[Word-table-beautifier](https://github.com/Mine1178/Word-table-beautifier)** | Word/WPS 表格一键美化宏，外粗内细边框、五号宋体、表头跨页重复 |
 
 ## 🛠️ 技术栈
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/WPF-UI-8A2BE2">
+  <img src="https://img.shields.io/badge/VBA-Office-217346?logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Tkinter-GUI-0078D4?logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/PyInstaller-Build-F04E23?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuitka-Compile-4A9?logoColor=white">
-  <img src="https://img.shields.io/badge/Inno%20Setup-Installer-0078D4">
   <img src="https://img.shields.io/badge/Pillow-Image-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-Data-013243?logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Git-Version-F05032?logo=git&logoColor=white">
@@ -37,7 +39,7 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mine1178&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mine1178&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mine1178&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170">
 </p>
 
