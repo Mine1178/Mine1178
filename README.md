@@ -6,9 +6,9 @@
 
 把通信勘察、文档排版、办公表格、翻译和文件整理里的重复劳动，做成双击就能用的软件。
 
-**9 个自研项目，全部免费开源；本地优先，不强制登录，不上传你的文件。**
+**5 大主力工具 + 4 个垂直工具，全部免费开源；本地优先，不强制登录，不上传你的文件。**
 
-[![Projects](https://img.shields.io/badge/Open%20Source-9%20Projects-2F6BFF?style=flat-square)](https://github.com/Mine1178?tab=repositories)
+[![Projects](https://img.shields.io/badge/Open%20Source-5%20Main%20Tools-2F6BFF?style=flat-square)](https://github.com/Mine1178?tab=repositories)
 [![Platform](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Mine1178?tab=repositories)
 [![License](https://img.shields.io/badge/License-MIT%20%2F%20Apache--2.0-16A34A?style=flat-square)](https://github.com/Mine1178?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## ⭐ 第一次来，先试这 3 个
+## ⭐ 五大主力，先试这 5 个
 
 <table>
 <tr>
@@ -39,9 +39,28 @@
 <a href="https://github.com/Mine1178/renamemaster/releases/latest"><img src="https://img.shields.io/badge/⬇_下载-RenameMaster-D97706?style=for-the-badge" alt="下载"></a>
 </td>
 </tr>
+<tr>
+<td colspan="3" align="center">
+<h3>另外两个主力</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Mine1178/addressmap-tool"><img src="https://raw.githubusercontent.com/Mine1178/addressmap-tool/main/app.png" width="128" alt="AddressMap"></a>
+<h3>AddressMap</h3>
+<p>Excel 地址批量转经纬度<br>高德/百度双引擎 + 本地缓存</p>
+<a href="https://github.com/Mine1178/addressmap-tool/releases/latest"><img src="https://img.shields.io/badge/⬇_下载-AddressMap-0E7490?style=for-the-badge" alt="下载"></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Mine1178/goutoujunshi-assistant"><img src="https://raw.githubusercontent.com/Mine1178/goutoujunshi-assistant/main/banner.png" width="100%" alt="狗头军师助手"></a>
+<h3>狗头军师助手</h3>
+<p>聊天记录 → 可直接发送的话<br>本地优先，只粘贴不代发</p>
+<a href="https://github.com/Mine1178/goutoujunshi-assistant/releases/latest"><img src="https://img.shields.io/badge/⬇_下载-狗头军师-2F6BFF?style=for-the-badge" alt="下载"></a>
+</td>
+</tr>
 </table>
 
-> 三个都提供 Windows 安装版，下载即用，不需要配置 Python 环境。
+> 五个都提供 Windows 安装版，下载即用，不需要配置 Python 环境。
 
 ---
 
